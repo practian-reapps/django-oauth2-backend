@@ -1,0 +1,13 @@
+*.pyc
+ve_*
+*- copia*
+node_modules
+*node_modules
+bower_components
+*bower_components*
+~*
+xtest_
+
+
+
+ 
