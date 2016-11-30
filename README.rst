@@ -29,6 +29,11 @@ Django oauth2_backend
 Installation
 ============
 
+
+-------------------
+Development version
+-------------------
+
 The **latest development version** can be installed directly from github_:
 
 .. code-block:: bash
@@ -36,7 +41,7 @@ The **latest development version** can be installed directly from github_:
     # Universal
     $ pip install --upgrade https://github.com/practian-reusable-applications/django-oauth2-backend/raw/master/dist/django-oauth2-backend-0.1.zip
 
-or clone from github_ github2_:
+or clone from github_ githubdos_ github xamgithub_:
 
 .. code-block:: bash
 
