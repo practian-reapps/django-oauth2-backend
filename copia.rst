@@ -1,5 +1,5 @@
 ########################################
-Info main
+HTTPie: a CLI, cURL-like tool for humans
 ########################################
 
 .. class:: no-web
@@ -12,7 +12,7 @@ Info main
     generally **interacting** with HTTP servers.
 
 
-    .. image:: https://github.com/submitconsulting/backengo/blob/master/media/test_images/img1.png
+    .. image:: https://raw.githubusercontent.com/jkbrzt/httpie/master/httpie.png
         :alt: HTTPie compared to cURL
         :width: 100%
         :align: center
