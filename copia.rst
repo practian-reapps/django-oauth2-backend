@@ -1553,3 +1553,11 @@ have contributed.
     :target: https://gitter.im/jkbrzt/httpie
     :alt: Chat on Gitter
 
+
+
+Generate command
+-----------
+    
+    python setup.py sdist
+    pip install dist\django-oauth2-backend-0.1.tar.gz
+    pip uninstall django-oauth2-backend

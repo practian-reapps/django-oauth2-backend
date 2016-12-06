@@ -7,6 +7,8 @@ django_oauth2_backend.egg-info/SOURCES.txt
 django_oauth2_backend.egg-info/dependency_links.txt
 django_oauth2_backend.egg-info/requires.txt
 django_oauth2_backend.egg-info/top_level.txt
+docs/media/a1-ejemplo_de_arquitectura_de_micoservicios.png
+docs/media/a2-arquitectura_de_micoservicios.png
 oauth2_backend/__init__.py
 oauth2_backend/admin.py
 oauth2_backend/apps.py
