@@ -9,12 +9,12 @@ oauth2_backend
 
 
     .. image:: https://github.com/practian-reapps/django-oauth2-backend/blob/master/docs/media/a2-arquitectura_de_micoservicios.png
-        :alt: HTTPie compared to cURL
+        :alt: oauth2_backend
         :width: 100%
         :align: center
 
     .. image:: https://github.com/practian-reapps/django-oauth2-backend/blob/master/docs/media/a1-ejemplo_de_arquitectura_de_micoservicios.png
-        :alt: HTTPie compared to cURL
+        :alt: oauth2_backend compared to cURL
         :width: 100%
         :align: center
 

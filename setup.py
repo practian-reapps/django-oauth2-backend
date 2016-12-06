@@ -35,11 +35,11 @@ setup(
     ],
     install_requires=[
         'docutils>=0.12',
-        'Django>=1.10.*',
-        'Pillow>=3.4.2',
-        # 'django-cors-headers>=1.2.2',
-        # 'djangorestframework>=3.5.2',
-        # 'django-oauth-toolkit>=0.10.0',
+        'Django>=1.9',
+        'Pillow>=3.4',
+        # 'django-cors-headers>=1.2',
+        # 'djangorestframework>=3.5',
+        # 'django-oauth-toolkit>=0.10',
 
     ],
 )
