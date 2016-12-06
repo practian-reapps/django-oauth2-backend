@@ -8,12 +8,15 @@ oauth2_backend
 
 
 
-    .. image:: https://github.com/practian-ioteca-project/oauth2_backend/blob/master/media/doc/e2-resource_server_catalogo_service.png
+    .. image:: https://github.com/practian-reapps/django-oauth2-backend/blob/master/docs/media/a2-arquitectura_de_micoservicios.png
         :alt: HTTPie compared to cURL
         :width: 100%
         :align: center
 
-
+    .. image:: https://github.com/practian-reapps/django-oauth2-backend/blob/master/docs/media/a1-ejemplo_de_arquitectura_de_micoservicios.png
+        :alt: HTTPie compared to cURL
+        :width: 100%
+        :align: center
 
 
 
