@@ -14,12 +14,16 @@ oauth2_backend/apps.py
 oauth2_backend/enums.py
 oauth2_backend/tests.py
 oauth2_backend/migrations/0001_initial.py
+oauth2_backend/migrations/0002_auto_20171110_0810.py
 oauth2_backend/migrations/__init__.py
 oauth2_backend/models/__init__.py
 oauth2_backend/models/hierarchy.py
 oauth2_backend/models/hierarchy_type.py
 oauth2_backend/models/menu.py
 oauth2_backend/models/person.py
+oauth2_backend/models/person_address.py
+oauth2_backend/models/person_document.py
+oauth2_backend/models/person_phone.py
 oauth2_backend/models/user.py
 oauth2_backend/models/user_hierarchy_group.py
 oauth2_backend/models/user_hierarchy_permission.py

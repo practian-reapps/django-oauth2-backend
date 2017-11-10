@@ -26,7 +26,7 @@ class Menu(models.Model):
     )
 
     state = models.CharField(
-        capfirst(_('state or section')), max_length=50,
+        capfirst(_('state path or section')), max_length=50,
         help_text=_(
             'state or section (estado o grupo de estados)'
         ),

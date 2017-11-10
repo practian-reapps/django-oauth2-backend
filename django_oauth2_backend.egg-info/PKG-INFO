@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: django-oauth2-backend
-Version: 0.1
+Version: 0.2
 Summary: oAuth2 with a Django backend
 Home-page: https://www.example.com/
 Author: Angel Sullon
