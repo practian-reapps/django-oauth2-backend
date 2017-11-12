@@ -12,6 +12,11 @@ from .models.hierarchy import Hierarchy
 from .models.menu import Menu
 from .models.user_hierarchy_group import UserHierarchyGroup
 from .models.user_hierarchy_permission import UserHierarchyPermission
+from .models.person import Religion, Ethnicity, Occupation, EducationLevel
+from .models.person import PensionScheme
+from .models.person_address import PersonAddressType, PersonAddress
+from .models.person_document import DocumentType, PersonDocument
+from .models.person_phone import PersonPhoneType, PersonPhone
 
 
 admin.site.register(ContentType)
@@ -23,16 +28,29 @@ class PermissionAdmin(admin.ModelAdmin):
 
 admin.site.register(Permission, PermissionAdmin)
 
-
+'''
 admin.site.register(Hierarchy)
 admin.site.register(HierarchyType)
 
 admin.site.register(UserHierarchyGroup)
 admin.site.register(UserHierarchyPermission)
 admin.site.register(Menu)
-
+'''
 admin.site.register(Person)
+admin.site.register(Religion)
+admin.site.register(Ethnicity)
+admin.site.register(Occupation)
+admin.site.register(EducationLevel)
+admin.site.register(PensionScheme)
 
+admin.site.register(PersonAddressType)
+admin.site.register(PersonAddress)
+
+admin.site.register(DocumentType)
+admin.site.register(PersonDocument)
+
+admin.site.register(PersonPhoneType)
+admin.site.register(PersonPhone)
 
 # forms
 from django.contrib.auth.forms import UserCreationForm, UserChangeForm

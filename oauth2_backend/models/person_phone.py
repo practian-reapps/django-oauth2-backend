@@ -87,5 +87,5 @@ class PersonPhone(models.Model):
         )
 
     def __str__(self):
-        return '%s: %s' % (self.person_phone_type.code,
-                           self.area_code)
+        return '%s: %s%s' % (self.person_phone_type.code,
+                             self.area_code, self.local_number)
