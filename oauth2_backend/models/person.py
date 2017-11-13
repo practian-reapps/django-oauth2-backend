@@ -198,12 +198,6 @@ class Person(models.Model):
             'photo or logo'
         ),
     )
-    acronym = models.CharField(
-        capfirst(_('acronym')), max_length=50, null=True, blank=True,
-        help_text=_(
-            'acronym'
-        ),
-    )
     birth_date = models.DateField(
         _('birth date'), null=True, blank=True
     )
