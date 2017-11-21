@@ -28,14 +28,14 @@ class PermissionAdmin(admin.ModelAdmin):
 
 admin.site.register(Permission, PermissionAdmin)
 
-'''
+
 admin.site.register(Hierarchy)
 admin.site.register(HierarchyType)
 
 admin.site.register(UserHierarchyGroup)
 admin.site.register(UserHierarchyPermission)
 admin.site.register(Menu)
-'''
+
 admin.site.register(Person)
 admin.site.register(Religion)
 admin.site.register(Ethnicity)

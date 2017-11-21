@@ -6,7 +6,6 @@ Home-page: https://www.example.com/
 Author: Angel Sullon
 Author-email: asullom@gmail.com
 License: BSD License
-Description-Content-Type: UNKNOWN
 Description: ########################################
         oauth2_backend
         ########################################
